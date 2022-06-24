@@ -1,14 +1,10 @@
 # excel-data-preparation
-A VBA algorithm that prepares data from a third-party software to be manipulated in Microsoft Excel.
+A VBA algorithm that organizes exported data from a third-party software into an organized Excel table.
 
 # Introduction
-Some third-party software export their data in a unorganized way, preventing it to be properly analyzed. Instead of manually organizing this data, this repository contains a VBA algorithm that organizes this data into an Excel table that is more suitable for data manipulation.
+Some third-party software export their data in a unorganized Excel sheet, preventing it to be properly analyzed. The most common problems are: blank rows, blank columns, numbers formatted as text and so on. Instead of manually organizing this data, this repository contains a VBA algorithm that automatically organizes it into an Excel table that is more suitable for data manipulation.
 
-Below is a ficticious example of the original file exported by the third-party software:
-![image](https://user-images.githubusercontent.com/13786793/175561927-d36c87be-7ad4-4e4b-bcd6-b75a219a76d9.png)
-
-Below is the resulting table, in a much more organized way:
-![image](https://user-images.githubusercontent.com/13786793/175562396-0c61204b-b0ff-448f-be0e-cf1b9526ea2a.png)
+![image](https://user-images.githubusercontent.com/13786793/175606254-e0f4686b-a25e-4c51-b481-b2f198145532.png)
 
 # Usage
 Open Microsoft Excel and follow these steps:
