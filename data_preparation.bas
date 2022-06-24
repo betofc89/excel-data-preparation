@@ -19,14 +19,6 @@ Sub main()
     
 End Sub
 
-Sub MostrarFormFilter()
-
-    MsgBox ActiveSheet.Name
-    MsgBox ActiveSheet.ListObjects(1).Name
-    FormOrdenacao.Show
-
-End Sub
-
 Sub AlignTableHeader()
 
     ActiveSheet.ListObjects(1).HeaderRowRange.Select
