@@ -13,7 +13,7 @@ Below is the resulting table, in a much more organized way:
 # Usage
 Open Microsoft Excel and follow these steps:
 
-1. press Alt + F11 to access the VBA editor
-2. In the VBA Editor, create a new Module and paste all the code inside that module
-3. In Excel, activate the sheet you want to organize
-4. In the VBA Editor, run the code
+1. Press Alt + F11 to access the VBA editor;
+2. In the VBA Editor, create a new Module and paste all the code inside that module;
+3. In Excel, activate the sheet you want to organize;
+4. In the VBA Editor, click on the "main" Sub and run the code pressing F5 or going to Execute -> Run.
