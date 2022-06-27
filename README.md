@@ -10,6 +10,6 @@ Some third-party software export their data in a unorganized Excel sheet, preven
 Open Microsoft Excel and follow these steps:
 
 1. Press Alt + F11 to access the VBA editor;
-2. In the VBA Editor, create a new Module and paste all the code inside that module;
+2. In the VBA Editor, create a new Module and paste all the code from the data_preparation.bas file inside that module;
 3. In Excel, activate the sheet you want to organize;
 4. In the VBA Editor, click on the "main" Sub and run the code pressing F5 or going to Execute -> Run.
